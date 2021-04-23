@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Houssem
+- 👀 I’m interested in Web application developement
+- 🌱 I’m currently learning Angular and ASP.NET
+- 💞️ I’m looking to start working as a Freelancer on UPWORK
+- 📫 You can reach me on email : louzahoussem@gmail.com
